@@ -1,27 +1,24 @@
-## First Name Last Name
+## Akilah Dixon
 
-### Term Year 
+### Fall 2025
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalculus Algebra/Trigonometry SU B 2021 MAC 1147
 
-- Course 2
+- Introduction to Data Science SU B 2021 COP2073
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Drawing
 
-- Thing 2
+- Video editing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coding as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/08
