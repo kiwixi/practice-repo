@@ -21,7 +21,7 @@ I am _passionate about_:
 
 ***
 
-#Courses Enrolled In:
+# Courses Enrolled In:
 
 | Course Name | Course Code | Credits |
 |:------------|:-----------:|:-------:|
