@@ -1,0 +1,12 @@
+---
+title: "Repo Photo"
+author: "Akilah"
+date: "7/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Updated Student File](C:\Users\ninet\OneDrive\Desktop\Repo Proof 1.png)
