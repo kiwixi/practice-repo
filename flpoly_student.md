@@ -21,4 +21,13 @@ I am _passionate about_:
 
 ***
 
+#Courses Enrolled In:
+
+| Course Name | Course Code | Credits |
+|:------------|:-----------:|:-------:|
+| _Intro to Data Science_ | **COP 2073**  |     3    | 
+|  _Precalculus Algebra/Trigonomtry_  |  **MAC 1147**     |    4   |
+
+
+***
 > Last modified: 2021/07/08
